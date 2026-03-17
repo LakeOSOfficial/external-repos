@@ -1,0 +1,6 @@
+{
+  "key_url": "https://repo.steampowered.com/steam/archive/stable/steam.gpg",
+  "key_dest": "/usr/share/keyrings/steam.gpg",
+  "sources_entry": "deb [arch=amd64,i386 signed-by=/usr/share/keyrings/steam.gpg] https://repo.steampowered.com/steam/ stable steam",
+  "sources_file": "steam.list"
+}
