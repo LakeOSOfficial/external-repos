@@ -1,0 +1,14 @@
+{
+  "repos": [
+    {
+      "id": "lakeos-main",
+      "name": "LakeOS Official",
+      "image": "https://lakeosofficial.github.io/home/assets/transparent-lakeos-logo.png"
+    },
+    {
+      "id": "google-chrome",
+      "name": "Google Chrome",
+      "image": "https://www.google.com/chrome/static/images/chrome-logo-m100.svg"
+    }
+  ]
+}
