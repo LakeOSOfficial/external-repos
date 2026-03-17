@@ -9,6 +9,21 @@
       "id": "google-chrome",
       "name": "Google Chrome",
       "image": "https://www.google.com/chrome/static/images/chrome-logo-m100.svg"
+    },
+    {
+      "id": "vscode",
+      "name": "Visual Studio Code",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+    },
+    {
+      "id": "brave-browser",
+      "name": "Brave Browser",
+      "image": "https://brave.com/static-assets/images/brave-logo-sans-text.svg"
+    },
+    {
+      "id": "steam",
+      "name": "Steam Launcher",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg"
     }
   ]
 }
