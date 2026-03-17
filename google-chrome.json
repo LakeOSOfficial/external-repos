@@ -1,0 +1,6 @@
+{
+  "key_url": "https://dl.google.com/linux/linux_signing_key.pub",
+  "key_dest": "/usr/share/keyrings/google-chrome.gpg",
+  "sources_entry": "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main",
+  "sources_file": "google-chrome.list"
+}
