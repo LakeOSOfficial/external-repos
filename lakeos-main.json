@@ -1,0 +1,6 @@
+{
+  "key_url": "https://raw.githubusercontent.com/LakeOSOfficial/repo/main/lakeos-keyring.gpg",
+  "key_dest": "/usr/share/keyrings/lakeos-archive-keyring.gpg",
+  "sources_entry": "deb [signed-by=/usr/share/keyrings/lakeos-archive-keyring.gpg] https://raw.githubusercontent.com/LakeOSOfficial/repo/main/lake-repo/ lake main",
+  "sources_file": "lakeos.list"
+}
